@@ -1,0 +1,13 @@
+{
+  "name": "PE Data Example <filename> <dataUploader>",
+  "symbol": "PE-<idk>",
+  "description": "Example data to be uploaded",
+  "image": "<some image link>",
+  "external_url": "<our website link>",
+  "attributes": [
+    {
+      "trait_type": "dataHash",
+      "value": "some hash"
+    }
+  ]
+}
